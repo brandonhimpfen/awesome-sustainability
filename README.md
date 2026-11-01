@@ -102,6 +102,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Open Sustainable Technology](https://opensustain.tech/) – Directory of open-source projects solving sustainability problems.
 - [EN-ROADS Climate Simulator](https://github.com/climateinteractive/en-roads) – Open climate scenario simulator.
 - [Solar Assistant](https://github.com/Solar-Assistant) – Monitoring tools for solar energy systems.
+- [Solars Net Billing Calculator](https://github.com/romangrid/solars-net-billing-calculator) – Modeling and yield calculation tool for commercial rooftop solar PV systems under Net Billing mechanisms.
 
 ## Related Awesome Lists
 
